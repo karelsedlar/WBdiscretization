@@ -1,0 +1,10 @@
+Package: WBdiscretization
+Type: Package
+Title: Western blot time series discretization
+Version: 1.0
+Date: 2015-01-01
+Author: Karel Sedlar
+Maintainer: Karel Sedlar <sedlar@feec.vutbr.cz>
+Description: This package cointains functions for discretization of Western blot time series data. It also provides tools for statistical evaluation of discretization.
+License: freeware
+
